@@ -1,0 +1,22 @@
+{
+  "name": "tier1-payments-modernisation",
+  "selected_cloud": "AWS",
+  "version": "1.0",
+  "prepared": "2026-11-03",
+  "files": [
+    "01-executive-architecture/executive-summary.md",
+    "01-executive-architecture/principles-and-governance.md",
+    "02-target-architecture/diagrams.md",
+    "02-target-architecture/target-architecture.md",
+    "03-application-platform/platform-decision.md",
+    "04-data-and-dr/data-transaction-and-dr.md",
+    "05-threat-and-control-model/threat-control-matrix.md",
+    "06-migration-roadmap/roadmap-and-risk-register.md",
+    "07-architecture-decision-records/ADR-001-runtime-platform.md",
+    "07-architecture-decision-records/ADR-002-ledger-and-regional-RPO.md",
+    "07-architecture-decision-records/ADR-003-entity-isolation.md",
+    "08-validation-and-references/references.md",
+    "08-validation-and-references/validation-and-disclosure.md",
+    "README.md"
+  ]
+}
